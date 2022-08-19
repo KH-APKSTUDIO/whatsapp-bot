@@ -1,6 +1,6 @@
-<h1 align="center">Basic WhatsApp Bot 👋</h1>
+<h1 align="center">Bot WhatsApp Basico 👋</h1>
 
-> Basic WhatsApp bot using NodeJS and whatsapp-web.js
+> Bot WhatsApp Basico usando NodeJS y whatsapp-web.js
 
 ## Install
 
@@ -8,19 +8,20 @@
 npm install
 ```
 
-## Usage
+## Uso
 
-First you have to locate the ```example.env``` file, rename it to ```.env```
+Primero debe ubicar el archivo ```example.env``` cámbiele el nombre a ```.env```
 
-Now replace the variable values with yours
+Ahora reemplaza los valores de las variables con los tuyos.
 
 ```sh
-COUNTRY_CODE="521" # Replace it with your country code
-NUMBER="XXXXXXXXXX" # Replace it with your target phone number
-MSG="Hello, world!" # The message you want to send
+COUNTRY_CODE="521" # Reemplázalo con el código de tu país
+NUMBER="XXXXXXXXXX" # Reemplázalo con tu número de teléfono objetivo
+MSG="Hola, Mundo!" # El mensaje que quieres enviar
+
 ```
 
-And now you are ready to run the bot
+Y ahora estás listo para ejecutar el bot.
 
 ```sh
 npm start
@@ -28,18 +29,19 @@ npm start
 
 ## Author
 
-👤 **Oscar Aguilar**
+👤 **KH_APKSTUDIOr**
 
-- Website: oscar-aguilar.site
-- Twitter: [@oscar_aguilaar](https://twitter.com/oscar_aguilaar)
-- Github: [@oscar-aguilaar](https://github.com/oscar-aguilaar)
+- Website: En Construccion
+- Github: [@KH_APKSTUDIO](https://github.com/KH-APKSTUDIO)
 
-## Show your support
+## Muestra tu Apoyo
 
-Give a ⭐️ if this project helped you!
+<a href="https://paypal.me/pagocomercio"><img src="https://www.paypalobjects.com/webstatic/mktg/merchant_portal/button/donate.es.png"></a>
+<br>
+<a href="https://paypal.me/pagocomercio"><img src="![BinancePayQR](https://user-images.githubusercontent.com/108447915/185672008-a832ffb0-fb6d-44c2-a8aa-7aa894f49314.png)"></a>
 
-This was a fun made project, if you want to change something, PR's are welcome
+¡Dale un ⭐️ si este proyecto te ayudó!
 
----
+Este fue un proyecto divertido, si quieres cambiar algo, las relaciones públicas son bienvenidas.
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
