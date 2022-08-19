@@ -29,16 +29,18 @@ npm start
 
 ## Author
 
-👤 **KH_APKSTUDIOr**
+👤 **KH_APKSTUDIO**
 
 - Website: En Construccion
 - Github: [@KH_APKSTUDIO](https://github.com/KH-APKSTUDIO)
 
 ## Muestra tu Apoyo
 
-<a href="https://paypal.me/pagocomercio"><img src="https://www.paypalobjects.com/webstatic/mktg/merchant_portal/button/donate.es.png"></a>
+<a href="https://paypal.me/pagocomercio"><img src="https://user-images.githubusercontent.com/108447915/185672008-a832ffb0-fb6d-44c2-a8aa-7aa894f49314.png"></a>
 <br>
-<a href="https://paypal.me/pagocomercio"><img src="![BinancePayQR](https://user-images.githubusercontent.com/108447915/185672008-a832ffb0-fb6d-44c2-a8aa-7aa894f49314.png)"></a>
+<a href="https://paypal.me/pagocomercio"><img src="https://www.paypalobjects.com/webstatic/mktg/merchant_portal/button/donate.es.png"></a>
+
+
 
 ¡Dale un ⭐️ si este proyecto te ayudó!
 
